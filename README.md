@@ -9,7 +9,7 @@
 
 * Download the code into your folder using git command in VSCode's terminal
 ```
-git clone https://github.com/DongYang26/CSC8370_25FullDemo.git
+git clone git@github.com:DongYang26/CSC8370_25FullDemo.git
 ```
 * We enter the code folder using 'cd' command (Important🌟🌟🌟)
 ```
